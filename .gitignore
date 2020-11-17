@@ -1,0 +1,6 @@
+/node_modules/
+/public/build/
+
+docker-compose.prod.yml
+.DS_Store
+.idea
